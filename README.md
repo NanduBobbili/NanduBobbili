@@ -1,12 +1,12 @@
 # 💫 About Me:
-💼 Currently working at <b>Wipro</b><br>
-🎓 Certified in <b>Java Full Stack Development</b><br>
-☕ Skilled in <b>Java, Spring Boot, SQL, HTML, CSS, and JavaScript</b><br>
-🧠 Actively strengthening my problem-solving skills through <b>Data Structures & Algorithms (DSA)</b><br>
-🚀 Passionate about building scalable backend applications and full-stack projects<br>
-🌐 Enjoy deploying projects and making them accessible through live applications<br>
-📚 Continuously learning new technologies and improving my software development skills<br>
-🎯 Aspiring to build impactful products and grow as a Java Full Stack Developer
+Currently working at <b>Wipro</b><br>
+Certified in <b>Java Full Stack Development</b><br>
+Skilled in <b>Java, Spring Boot, SQL, HTML, CSS, and JavaScript</b><br>
+Actively strengthening my problem-solving skills through <b>Data Structures & Algorithms (DSA)</b><br>
+Passionate about building scalable backend applications and full-stack projects<br>
+Enjoy deploying projects and making them accessible through live applications<br>
+Continuously learning new technologies and improving my software development skills<br>
+Aspiring to build impactful products and grow as a Java Full Stack Developer
 
 
 ## 🌐 Socials:
